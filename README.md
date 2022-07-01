@@ -1,2 +1,2 @@
-#Recriando a página inicial do Instagran 
+# Recriando a página inicial do Instagran 
 Desafio de Projeto - Bootcamp Santander
