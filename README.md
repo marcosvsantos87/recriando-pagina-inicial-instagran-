@@ -1,4 +1,5 @@
-# Recriando a página inicial do Instagran 
+# Recriando a página inicial do Instagran
+
 Desafio de Projeto - Bootcamp Santander
 
-![image](https://user-images.githubusercontent.com/103960100/176904773-c0d805a6-2bc5-46b0-a1d6-fda277a2a917.png)
+![image](https://user-images.githubusercontent.com/103960100/176904988-e25f7a57-5bdd-44f5-8386-b18d524a98c2.png)
